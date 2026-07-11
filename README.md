@@ -75,16 +75,6 @@ mindset: secure-by-design 🔒
 
 <br/>
 
-## 📊 `stats --show`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mounika-rao&show_icons=true&theme=dark&border_color=39FF14&bg_color=0d1117&icon_color=39FF14&title_color=39FF14&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mounika-rao&theme=dark&border=39FF14&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mounika-rao&layout=compact&theme=dark&border_color=39FF14&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" height="165"/>
-
-</div>
 
 <br/>
 
