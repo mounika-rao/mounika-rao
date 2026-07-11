@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Mounika%20Rao&fontSize=50&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Digital%20Security%20%7C%20IoT%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+whoami+%3A+Mounika+Rao;%3E+role+%3A+Digital+Security+Intern;%3E+focus+%3A+IoT+%2B+Cloud+Security;%3E+status+%3A+securing_systems.exe+running..." alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=900&color=39FF14&background=00000000&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Mounika+Rao." alt="Typing SVG" />
+</div>
+<br></br>
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mounika-rao&color=39FF14&style=flat-square&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/mounika-rao?style=flat-square&color=39FF14&label=FOLLOWERS)
-![GitHub last commit](https://img.shields.io/github/last-commit/mounika-rao/mounika-rao?style=flat-square&color=39FF14)
+[![Follow](https://img.shields.io/github/followers/mounika-rao?label=Follow%20%40mounika-rao&style=for-the-badge&logo=github&color=gray)](https://github.com/mounika-rao)
 
-</div>
+
 
 <br/>
 
@@ -18,14 +15,15 @@
 
 ```yaml
 name: Mounika Rao
-role: Digital Security Intern
-education: B.E. CSE (IoT & Cybersecurity) @ M.V.S.R. Engineering College (2023-2027)
+status: Seeking opportunities as SOC Analyst / Cloud Security Analyst
+education: B.E. CSE (IoT, Cybersecurity & Blockchain Technology) @ M.V.S.R. Engineering College (2023-2027)
 focus: [Cloud Security, Secure IoT Architectures, AI Threat Detection, Network Protection]
 mindset: secure-by-design 🔒
 ```
 
-- 🎓 Pursuing **B.E. in Computer Science Engineering**, specializing in IoT & Cybersecurity.
-- 💡 Actively building hands-on experience in **cloud security, IoT hardening, and threat detection**.
+- 🎓 Pursuing **B.E. in Computer Science Engineering**, specializing in IoT, Cybersecurity & Blockchain Technology.
+- 🎯 Actively seeking **SOC Analyst** and **Cloud Security Analyst** roles.
+- 💡 Building hands-on experience in **threat detection, log analysis, and cloud security**.
 - 🧠 Approaches every system with a **secure-by-design, zero-trust mindset**.
 - ⚡ Currently exploring **AI-powered threat detection** and network defense.
 
@@ -40,12 +38,12 @@ mindset: secure-by-design 🔒
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Security & Cloud**
 
@@ -57,35 +55,23 @@ mindset: secure-by-design 🔒
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+**SIEM & Monitoring**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/MS%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AB6E1?style=for-the-badge&logo=wazuh&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-141924?style=for-the-badge&logo=graylog&logoColor=white)
+
 **Tools & Platforms**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
-
-<br/>
-
-## 📡 `training --certifications`
-
-<table align="center">
-<tr>
-<td>☁️</td><td><b>AWS Academy</b></td><td>Cloud Foundations</td><td><code>2026</code></td>
-</tr>
-<tr>
-<td>🌐</td><td><b>Cisco Networking Academy</b></td><td>CCNA & Cybersecurity Essentials</td><td><code>2025</code></td>
-</tr>
-<tr>
-<td>⚙️</td><td><b>Infosys Springboard</b></td><td>IoT Fundamentals</td><td><code>2025</code></td>
-</tr>
-<tr>
-<td>🏛️</td><td><b>Oracle Academy</b></td><td>Cloud Computing</td><td><code>2024</code></td>
-</tr>
-</table>
 
 <br/>
 
@@ -106,18 +92,7 @@ mindset: secure-by-design 🔒
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
-
-*"The only truly secure system is one that is powered off, cast in a block of concrete... but I'll settle for defense in depth."* 🔐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veeramaneni-mounika-aa957a316/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mounika-rao)
 
 </div>
