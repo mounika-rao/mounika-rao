@@ -1,13 +1,10 @@
-
-<p align="center">
-  <img src="https://demolab.com!🚀" alt="Typing Animation" />
-</p>
+![Typing Animation](https://demolab.com!🚀)
 
 ## 👋 Hi there! I'm Mounika.
 
-### Digital Security Intern · IoT & Cloud Enthusiast
-[![Email](https://shields.io)](mailto:mounikaveerama@gmail.com)
-[![Location](https://shields.io)](https://google.com)
+### Goal--->SOC Analyst  · IoT & Cloud Enthusiast
+
+![Email](https://shields.io) ![Location](https://shields.io)
 
 ---
 
@@ -20,14 +17,9 @@
 
 ### 🖥️ Technical Skills:
 
-<p align="left">
-  <!-- Row 1: Core Programming, Web & Databases -->
-  <img src="https://skillicons.dev" alt="Languages and Databases" />
-</p>
-<p align="left">
-  <!-- Row 2: Dev Tools, Systems & Cloud Infrastructure -->
-  <img src="https://skillicons.dev" alt="Tools and Platforms" />
-</p>
+![Languages and Databases](https://skillicons.dev)
+
+![Tools and Platforms](https://skillicons.dev)
 
 ---
 
@@ -40,6 +32,4 @@
 ---
 
 ### 📊 GitHub Activity
-<p align="left">
-  <img src="https://vercel.app" alt="Mounika's GitHub stats" height="150" />
-</p>
+![Mounika's GitHub stats](https://vercel.app)
