@@ -21,8 +21,6 @@ focus: [Cloud Security, Secure IoT Architectures, AI Threat Detection, Network P
 mindset: secure-by-design 🔒
 ```
 
-- 🎓 Pursuing **B.E. in Computer Science Engineering**, specializing in IoT, Cybersecurity & Blockchain Technology.
-- 🎯 Actively seeking **SOC Analyst** and **Cloud Security Analyst** roles.
 - 💡 Building hands-on experience in **threat detection, log analysis, and cloud security**.
 - 🧠 Approaches every system with a **secure-by-design, zero-trust mindset**.
 - ⚡ Currently exploring **AI-powered threat detection** and network defense.
