@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=900&color=39FF14&background=00000000&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Mounika." alt="Typing SVG" />
+<img src="./assets/header-banner-cyber.svg" alt="Header banner" width="700" />
 </div>
 <br></br>
 <br/>
