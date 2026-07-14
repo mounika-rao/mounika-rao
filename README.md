@@ -14,6 +14,14 @@
 
 <br/>
 
+## 📬 `how-to-reach-me`
+
+```yaml
+email: mounikaveerama@gmail.com
+
+```
+<br/>
+
 ## 🛡️ `whoami`
 
 ```yaml
